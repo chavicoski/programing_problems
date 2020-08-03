@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/all_you_need_is_love.dir/main.cpp.o  -o all_you_need_is_love.exe -Wl,--out-implib,liball_you_need_is_love.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/chavicoski/Desktop/Programas/C++/ProblemasUVA/Problemas/passwordSearch/main.cpp
+stdio.h
+-
+unordered_map
+-
+string.h
+-
+string
+-
+iostream
+-
+

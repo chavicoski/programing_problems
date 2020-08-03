@@ -1,0 +1,3 @@
+/Users/chavicoski/gitlab/Problemas/tex_cuotes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chavicoski/gitlab/Problemas/tex_cuotes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chavicoski/gitlab/Problemas/tex_cuotes/cmake-build-debug/CMakeFiles/tex_cuotes.dir

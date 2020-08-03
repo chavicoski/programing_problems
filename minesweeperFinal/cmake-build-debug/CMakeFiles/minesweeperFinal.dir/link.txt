@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/minesweeperFinal.dir/main.cpp.o  -o minesweeperFinal.exe -Wl,--out-implib,libminesweeperFinal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

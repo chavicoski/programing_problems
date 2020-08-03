@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/chavicoski/Desktop/Programas/C++/ProblemasUVA/Problemas/all_you_need_is_love/main.cpp
+stdio.h
+-
+math.h
+-
+string
+-
+bits/stdc++.h
+-
+

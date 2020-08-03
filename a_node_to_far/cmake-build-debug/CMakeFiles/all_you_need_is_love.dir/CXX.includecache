@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/chavicoski/Desktop/Programas/C++/ProblemasUVA/Problemas/a_node_to_far/main.cpp
+stdio.h
+-
+vector
+-
+queue
+-
+stack
+-
+sstream
+-
+
